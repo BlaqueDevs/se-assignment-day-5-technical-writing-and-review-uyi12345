@@ -29,8 +29,7 @@ Here are some strategies to tailor content to different audience types:
    - Test your content with sample users to ensure clarity.
    - Provide examples and real-world scenarios to illustrate concepts.
 
-## 3. How can you gauge the existing 
-knowledge of your audience to avoid overwhelming them with jargon?
+## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
 To gauge your audience's existing knowledge and avoid overwhelming them with jargon, use these strategies:
 1. Conduct Audience Research:
    - Survey or interview potential users to understand their background and expertise.
